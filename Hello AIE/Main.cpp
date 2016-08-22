@@ -6,7 +6,8 @@
 
 int main()
 {
-	printf("ICE, THERE'S NO ICE, ICE IS JUST A MYTH - Mr.Krabs");
+	printf("ICE, THERE'S NO ICE, ICE IS JUST A MYTH - Mr.Krabs\n");
+	printf("He cried you a sweater of tears, and you killed him.");
 
 	getchar();
 }
